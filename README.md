@@ -4,7 +4,14 @@ In my data manipulation I started off by sorting from 2020-2020, which i think m
 Next I made an extra column "Year" so it was easier to sort by 1 year, than all of the days within that year and excluding all the other days which would be a handful of code. I started see what kind of crimes were mostly made. Sorting by where the made them, what age the victim of the crime was, and the most common type of crime overall. Which is Assault with a Deadly weapon. Additionally people in their mid 20's to early/mid 30's was also the main victim for these crimes.
 
 # Visualization of the data
-I personally feel like bar graphs and line graphs were the best way to show off the data, along with the occasional histogram making distribution charts. In La people in their 30s to 40s experienced the most crime. Although one caveat seemed to somewhat skew my data. When I was cleaning the data, prepping it for analyzation there was 1 million rows to start with. After cleaning i got it down to 70.5k or so, which is a GIANT jump. So when visualizing my data(specifically the ones where I compare between years) there was a significant drop off. My guess is that most of the data I cleaned up were in 2024, leading to that drop. But over all still clean visualizations
+I personally feel like bar graphs and line graphs were the best way to show off the data, along with the occasional histogram making distribution charts. In La people in their 30s to 40s experienced the most crime. Although one caveat seemed to somewhat skew my data. When I was cleaning the data, prepping it for analyzation there was 1 million rows to start with. After cleaning i got it down to 70.5k or so, which is a GIANT jump. So when visualizing my data(specifically the ones where I compare between years) there was a significant drop off. My guess is that most of the data I cleaned up were in 2024, leading to that drop. But over all still clean, simple visualizations
 
 
-#Images <img width="1446" height="547" alt="image" src="https://github.com/user-attachments/assets/e58971ea-9eff-475a-b64a-63c6641cde14" />
+# Images 
+<img width="1446" height="547" alt="image" src="https://github.com/user-attachments/assets/e58971ea-9eff-475a-b64a-63c6641cde14" />
+<img width="877" height="547" alt="image" src="https://github.com/user-attachments/assets/01f88c7a-bb4a-477e-acb6-d621a4cb4313" />
+<img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/00760545-16c5-4953-abc7-bdcab309f0fc" />
+<img width="1196" height="690" alt="image" src="https://github.com/user-attachments/assets/ec121692-69f0-408a-bece-af02fbdf79aa" />
+<img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/ad49fd81-2ca0-4ee3-85e3-5adb89e1119a" />
+
+
